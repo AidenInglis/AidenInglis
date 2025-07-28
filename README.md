@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a C# RPG Multiplayer Game using SQL Server<br>🌱I'm currently trying to advance my skills in a variety of areas such as coding JavaScript, C#, SQL, HTML and CSS.<br>🧑🏻‍🤝‍🧑🏻I am looking to collaborate on a couple projects to advance my skills in the industry of Software Development, in particular either around a Website or App based project.<br>🗝️I possess lots of skills in the industry and am always looking to expand, A fun fact about myself is that I love coding in SQL and JavaScript... and my C# code isn't bad either! 
+🔭I'm currently working on a AI Propaganda Detector to add to a google extension<br>🌱I'm currently trying to advance my skills in a variety of areas such as coding JavaScript, C#, SQL, HTML, CSS, and Artificial Intellegence.<br>🧑🏻‍🤝‍🧑🏻I am looking to collaborate on a couple projects to advance my skills in the industry of Software Development, in particular either around a Website or App based project.<br>🗝️I possess lots of skills in the industry and am always looking to expand, A fun fact about myself is that I love coding in SQL and JavaScript... and my C# code isn't bad either! 
 
 
 ## 🌐 Socials:
